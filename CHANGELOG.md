@@ -1,0 +1,1 @@
+Todos los cambios relevantes del proyecto se documentarán en este archivo.
